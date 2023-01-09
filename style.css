@@ -1,1 +1,10 @@
 /* YOUR STYLES HERE */
+.name {
+  color:#ffdb6d;
+  background-color: #1d2531;
+  padding: 1rem;
+  text-align: center;
+  border-style: solid;
+  border-color: #ffdb6d;
+  border-width: 3px;
+}
